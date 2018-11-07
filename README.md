@@ -1,2 +1,4 @@
-# Python-Stopwatch
-Detailed stopwatch written in Python
+### Python-Stopwatch
+Detailed stopwatch written in Python.
+
+How to use: ```open```
